@@ -1,0 +1,78 @@
+﻿
+.bg-dark {
+    background-color: #1a1a1a !important;
+}
+
+.signup {
+    background-color: #32bc87;
+}
+
+    .signup:hover {
+        background-color: #2ba174;
+        color: white !important;
+    }
+
+.sectionRegister {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 45% !important;
+    background-color: #eee;
+}
+
+.form-label {
+    font-size: 15px !important;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.FormHeading h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.FormHeading p {
+    font-size: 14px;
+}
+
+hr {
+    width: 65%;
+    margin-left: 120px;
+    margin-bottom: 25px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 14px;
+    line-height: 3;
+}
+
+select {
+    width: 100%;
+    height: 5vh;
+}
+
+.btn {
+    background-color: #32bc87;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+    .btn:hover {
+        border: 2px solid #32bc87;
+        background-color: transparent;
+        color: #2ba174;
+    }
+
+.btnDiv {
+    padding-top: 50px;
+}
+
+

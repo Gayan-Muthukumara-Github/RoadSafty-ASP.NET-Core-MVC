@@ -1,0 +1,28 @@
+﻿.bg-dark {
+    background-color: transparent !important;
+}
+
+    .bg-dark.scrolled {
+        background-color: black !important;
+    }
+
+.navbar {
+    padding: 7px;
+}
+
+.loginBtn {
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
+.htext {
+    font-size: 13px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    letter-spacing: 1px;
+    color: white !important;
+}
+
+    .htext:hover {
+        color: #32bc87 !important;
+    }
